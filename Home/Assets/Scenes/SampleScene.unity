@@ -475,7 +475,7 @@ GameObject:
   - component: {fileID: 847440086}
   - component: {fileID: 847440085}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Health
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -842,7 +842,7 @@ GameObject:
   - component: {fileID: 1244019697}
   - component: {fileID: 1244019696}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Score
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -899,7 +899,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: WILLPOWER
+  m_Text: FREEDOM
 --- !u!222 &1244019697
 CanvasRenderer:
   m_ObjectHideFlags: 0
