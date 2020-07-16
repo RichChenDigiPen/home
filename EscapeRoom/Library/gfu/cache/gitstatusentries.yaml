@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-16T15:20:28.884-07:00
-  initializedAtString: 2020-07-16T15:05:14.789-07:00
+  lastUpdatedAtString: 2020-07-16T16:20:43.231-07:00
+  initializedAtString: 2020-07-16T15:33:21.445-07:00
   entries:
   - path: EscapeRoom\Assets\Scenes\Bathroom.unity
     fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Scenes\Bathroom.unity
@@ -22,9 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Assets\Sprites\guitar2.png.meta
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\guitar2.png.meta
-    projectPath: Assets\Sprites\guitar2.png.meta
+  - path: EscapeRoom\Assets\Sprites\Painting-2.png.meta
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\Painting-2.png.meta
+    projectPath: Assets\Sprites\Painting-2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -76,9 +76,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
