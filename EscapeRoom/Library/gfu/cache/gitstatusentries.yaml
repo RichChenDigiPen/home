@@ -13,26 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-16T14:59:26.459-07:00
-  initializedAtString: 2020-07-16T14:44:56.705-07:00
+  lastUpdatedAtString: 2020-07-16T15:20:28.884-07:00
+  initializedAtString: 2020-07-16T15:05:14.789-07:00
   entries:
-  - path: EscapeRoom\Assets\Sprites\rippedpage-1.png.meta
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\rippedpage-1.png.meta
-    projectPath: Assets\Sprites\rippedpage-1.png.meta
+  - path: EscapeRoom\Assets\Scenes\Bathroom.unity
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Scenes\Bathroom.unity
+    projectPath: Assets\Scenes\Bathroom.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: EscapeRoom\Assets\Sprites\stormy bedroom - book.png.meta
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\stormy
-      bedroom - book.png.meta
-    projectPath: Assets\Sprites\stormy bedroom - book.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: EscapeRoom\Assets\Sprites\stormy bedroom - no book.png.meta
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\stormy
-      bedroom - no book.png.meta
-    projectPath: Assets\Sprites\stormy bedroom - no book.png.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: EscapeRoom\Assets\Sprites\guitar2.png.meta
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Assets\Sprites\guitar2.png.meta
+    projectPath: Assets\Sprites\guitar2.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -42,24 +34,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\Artifacts\04\04921374d1e80c869f9f83032d4aeddf
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\Artifacts\04\04921374d1e80c869f9f83032d4aeddf
-    projectPath: Library\Artifacts\04\04921374d1e80c869f9f83032d4aeddf
+  - path: EscapeRoom\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: EscapeRoom\Library\Artifacts\3e\3e723242545b3e68a4907bc73f7ec4f5
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\Artifacts\3e\3e723242545b3e68a4907bc73f7ec4f5
-    projectPath: Library\Artifacts\3e\3e723242545b3e68a4907bc73f7ec4f5
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: EscapeRoom\Library\Artifacts\e6\e69b53469f68a312b50bd14c64ceb64b
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\Artifacts\e6\e69b53469f68a312b50bd14c64ceb64b
-    projectPath: Library\Artifacts\e6\e69b53469f68a312b50bd14c64ceb64b
+    workTreeStatus: 3
+  - path: EscapeRoom\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: EscapeRoom\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -78,9 +70,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: EscapeRoom\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -93,12 +85,6 @@ MonoBehaviour:
   - path: EscapeRoom\Library\SourceAssetDB
     fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: EscapeRoom\Library\StateCache\Hierarchy\7bbaa9-mainStage.json
-    fullPath: C:\Users\Shara\Desktop\WANIC Projects\home\EscapeRoom\Library\StateCache\Hierarchy\7bbaa9-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\7bbaa9-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
