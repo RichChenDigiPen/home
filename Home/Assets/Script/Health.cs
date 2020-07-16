@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,6 +19,11 @@ public class Health : MonoBehaviour
     void Update()
     {
         DamagePlayer(10);
+        if(curHealth <= 0)
+        {
+            Debug.Log("LOSE CONDITION");
+            //you lose
+        }
     }
 
     public void DamagePlayer( int damage )
