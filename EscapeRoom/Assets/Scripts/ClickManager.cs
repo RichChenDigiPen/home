@@ -5,8 +5,6 @@ using UnityEngine;
 public class ClickManager : MonoBehaviour
 {
     
-    public Health playerHealth;
-    public Score playerScore;
 
     // Start is called before the first frame update
     void Start()
@@ -33,23 +31,9 @@ public class ClickManager : MonoBehaviour
                 //pick up if can pick up
                 // hit.collider.gameObject.GetComponent<MouseMove2D>().PickUp();
 
-                
-                Debug.Log("sdfsd");
-                //get health and score changes
-                int hc = hit.collider.gameObject.GetComponent<MouseMove2D>().getHealthChange;
-                int sc = hit.collider.gameObject.GetComponent<MouseMove2D>().getScoreChange;
-                Debug.Log(hc);
-                Debug.Log(sc);
-                Debug.Log("sdfsd");
-                Action(hc, sc);
+
 		    }
         }
     }
 
-    //applies changes in healthaction and scoreaction
-    public void Action(int healthAction, int scoreAction)
-    {
-        playerHealth.setChange(healthAction);
-        playerScore.setChange(scoreAction);
-    }
 }
