@@ -24,13 +24,12 @@ public class ClickManager : MonoBehaviour
         if (hit.collider != null) {
             if (Input.GetMouseButtonDown(0)) {
 
-                //debug stuff
-			    Debug.Log("Mouse Clicked");
-                Debug.Log(hit.collider.gameObject.name);
+                hit.collider.gameObject.GetComponent<MouseMove2D>().Purpose();
+                
 
                 //pick up if can pick up
-                // hit.collider.gameObject.GetComponent<MouseMove2D>().PickUp();
-
+                hit.collider.gameObject.GetComponent<MouseMove2D>().PickUp();
+            
 
 		    }
         }

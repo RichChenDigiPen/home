@@ -247,10 +247,9 @@ GameObject:
   - component: {fileID: 1612851966}
   - component: {fileID: 1612851963}
   - component: {fileID: 1612851967}
-  - component: {fileID: 1612851968}
   m_Layer: 0
   m_Name: Circle
-  m_TagString: Circle
+  m_TagString: 1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -370,18 +369,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
   isPickedUp: 0
---- !u!114 &1612851968
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1612851962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96e11c73fb546784b8c466f0d978c825, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  canPickUp: 0
+  clickable: 1
+  hasPurpose: 1
+  ID: 1
 --- !u!1 &2031773116
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,7 +388,7 @@ GameObject:
   - component: {fileID: 2031773121}
   m_Layer: 0
   m_Name: Square
-  m_TagString: Square
+  m_TagString: 2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -522,6 +513,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2031773116}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96e11c73fb546784b8c466f0d978c825, type: 3}
+  m_Script: {fileID: 11500000, guid: 510eb5d5c9553b54cadad7cd102c8efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 0.5
+  isPickedUp: 0
+  canPickUp: 0
+  clickable: 0
+  hasPurpose: 1
+  ID: 2

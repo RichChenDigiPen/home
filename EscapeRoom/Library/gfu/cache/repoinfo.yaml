@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-16T21:16:09.692-07:00
-  initializedAtString: 2020-07-16T17:57:35.356-07:00
+  lastUpdatedAtString: 2020-07-17T09:16:47.787-07:00
+  initializedAtString: 2020-07-17T09:16:47.787-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/RichChenDigiPen/home.git
